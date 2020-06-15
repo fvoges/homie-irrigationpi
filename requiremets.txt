@@ -1,0 +1,2 @@
+Homie4 >= 0.3.5
+automationhat >= 0.2.2
